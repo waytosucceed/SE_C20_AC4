@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "In a school, the ratio of boys to girls is 5:4. The ratio of teachers to students is 1:18. What is the ratio of teachers to boys?",
+    "options": [
+      "1:19",
+      "1:8",
+      "1:10",
+      "1:5"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "The current ages of Daniel and David are in the ratio 5:4. Eight years from now, their ages will be in the ratio 7:6. What are their current ages?",
+    "options": [
+      "Daniel: 20 years, David: 16 years",
+      "Daniel: 25 years, David: 20 years",
+      "Daniel: 20 years, David: 24 years",
+      "Daniel: 35 years, David: 28 years"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "In a library, the ratio of fiction books to non-fiction books is 3:5. If 100 more fiction books are added and 50 more non-fiction books are added, the new ratio becomes 2:1. How many fiction books were originally there?",
+    "options": [
+      "250",
+      "300",
+      "550",
+      "600"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "The prices of two cars, A and B, are in the ratio 3:4. If the price of car A increases by 15% and the price of car B decreases by 10%, what will be the new ratio of their prices?",
+    "options": [
+      "69 : 72",
+      "3 : 4",
+      "27 : 32",
+      "23 : 24"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The ratio of the length to the width of a rectangle is 5:3. If the length of the rectangle is 4 meters more than the width, find the perimeter of the rectangle.<br> Note:<br> Perimeter of rectangle = 2( length + width )",
+    "options": [
+      "16 m",
+      "24 m",
+      "32 m",
+      "40 m"
+    ],
+    "correct": 2
+  }
+]
