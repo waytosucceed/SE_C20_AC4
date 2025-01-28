@@ -33,17 +33,6 @@
     "correct": 3
   },
   {
-    "questionNo": "Q4",
-    "question": "The prices of two cars, A and B, are in the ratio 3:4. If the price of car A increases by 15% and the price of car B decreases by 10%, what will be the new ratio of their prices?",
-    "options": [
-      "69 : 72",
-      "3 : 4",
-      "27 : 32",
-      "23 : 24"
-    ],
-    "correct": 3
-  },
-  {
     "questionNo": "Q5",
     "question": "The ratio of the length to the width of a rectangle is 5:3. If the length of the rectangle is 4 meters more than the width, find the perimeter of the rectangle.<br> Note:<br> Perimeter of rectangle = 2( length + width )",
     "options": [
